@@ -28,6 +28,6 @@ K-NN은 분류에 가까운 알고리즘이고, K-means는 군집화에 가까�
     + ARIMAX
 
 * 트레이닝 데이터와 테스팅 데이터의 수
- - 80% training set, 10% validation set , 10% testing set
- - 50% training set, 25% validation set , 25% testing set
- - Reference: https://stackoverflow.com/questions/38358465/how-to-choose-the-right-amount-of-training-dataset-for-forecasting/38362005#38362005
+  - 80% training set, 10% validation set , 10% testing set
+  - 50% training set, 25% validation set , 25% testing set
+  - Reference: https://stackoverflow.com/questions/38358465/how-to-choose-the-right-amount-of-training-dataset-for-forecasting/38362005#38362005
