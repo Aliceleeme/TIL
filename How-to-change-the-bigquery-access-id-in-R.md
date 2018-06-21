@@ -3,6 +3,6 @@
 
 1. R에서 getwd()를 통해 본인의 디렉토리를 확인
 2. 디렉토리로 접속하여 .httr-oauth 파일을 찾고 삭제
-3. 
+3. 재인증 
 
 https://github.com/r-dbi/bigrquery/issues/136
