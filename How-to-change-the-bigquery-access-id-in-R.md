@@ -3,6 +3,7 @@
 
 1. R에서 getwd()를 통해 본인의 디렉토리를 확인
 2. 디렉토리로 접속하여 .httr-oauth 파일을 찾고 삭제
-3. 재인증 
+3. R에서 bigrquery::reset_access_cred()를 입력하여 재인증 
+4. reset_access_cred() 이후에 뜨는 팝업 화면에서 빅쿼리를 사용할 구글 계정을 로그인하면 재인증 완료.
 
-https://github.com/r-dbi/bigrquery/issues/136
+Ref: https://github.com/r-dbi/bigrquery/issues/136
