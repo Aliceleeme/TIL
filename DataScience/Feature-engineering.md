@@ -19,12 +19,13 @@ Feature engineerning for Machine Learning
       + Binning: 비즈니스 도메인에 의해 데이터를 categorization 해야할 때 사용 
     
   + Variable(feature) creation
-    + 
+    + Derived variables; 기존 변수에서 새로운 변수 생성하기
+    + Dummy variables; 카테고리 데이터를 숫자 데이터로 변환하기
   
 + 방법론 
   + Feature selection
   + Dimension reduction
-  + 
+
 
 + 출처; 
 1. http://hero4earth.com/blog/learning/2018/01/29/Feature_Engineering_Basic/
