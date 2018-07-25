@@ -5,7 +5,8 @@ Feature engineerning for Machine Learning
   + 모델의 성능 향상을 위한 데이터 가공 및 생성을 의미함 (e.g. 날짜 데이터에서 요일 추출하기 등) 
   + Variable transformation, Variable(feature) creation 등 EDA 및 Data cleansing 이후에 진행되는 단계 
   + 기존 변수를 기반으로 한 변수 추가 단계로서 모델 성능에 미치는 영향이 굉장히 큼. 또한 머신러닝 응용에 있어서 굉장히 중요하며, 전문성과 시간과 비용이 많이 드는 작업
- 
+  
+  
 + 종류 
   + Variable transformation
     + 사용 용도
@@ -30,3 +31,4 @@ Feature engineerning for Machine Learning
 + 출처; 
 1. http://hero4earth.com/blog/learning/2018/01/29/Feature_Engineering_Basic/
 2. http://ourcstory.tistory.com/144
+3. https://medium.com/open-machine-learning-course/open-machine-learning-course-topic-6-feature-engineering-and-feature-selection-8b94f870706a
