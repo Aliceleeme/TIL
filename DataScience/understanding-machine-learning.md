@@ -4,6 +4,8 @@
 
 [(기계 학습, Machine Learning) Week 1 Motivations and Basics | Lecture 1 Motivation - YouTube](https://www.youtube.com/watch?v=sDG1Y1vxOjs&index=2&list=PLt9QR0WkC4WVszuogbmIIHIIQ2RMI78RC)
 
+[구글 머신러닝 ](https://www.youtube.com/watch?v=sDG1Y1vxOjs&index=2&list=PLt9QR0WkC4WVszuogbmIIHIIQ2RMI78RC)
+
 Supervised Learning 
 ----------------------
  - 알아맞추는 것, 예측하는 것에 집중되어 있다. 
@@ -34,6 +36,7 @@ Unsupervised Learning
 ### Clustering 
  - 군집화(Clustering) - 레이블이 없는 데이터를 비슷한 군집으로 묶는 것.
  - K-NN은 분류에 가까운 알고리즘이고, K-means는 군집화에 가까운 알고리즘이다.
+   + K-NN 관련용어 SOM(셀프 오거나이징 맵): https://en.wikipedia.org/wiki/Self-organizing_map
  - 지도학습의 분류와 가장 큰 차이는 레이블의 유무
 
 ## Reinforcement Learning 
