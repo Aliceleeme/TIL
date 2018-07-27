@@ -3,8 +3,8 @@
 =====================
 
 [(기계 학습, Machine Learning) Week 1 Motivations and Basics | Lecture 1 Motivation - YouTube](https://www.youtube.com/watch?v=sDG1Y1vxOjs&index=2&list=PLt9QR0WkC4WVszuogbmIIHIIQ2RMI78RC)
-
 [구글 머신러닝 단기간집중학습](https://www.youtube.com/watch?v=sDG1Y1vxOjs&index=2&list=PLt9QR0WkC4WVszuogbmIIHIIQ2RMI78RC)
+[인공신경망이란 무엇인가](http://blog.lgcns.com/1359) 
 
 Supervised Learning 
 ----------------------
@@ -14,7 +14,7 @@ Supervised Learning
 ### GLM = General Linear model
  - 머신러닝과 통계에서 가장 보편적인 모델
  - 최근에는 H2O, XGBoost 등이 사용되고 있음
- -  신용평가모델링에 보편적으로 사용됨 
+ - 신용평가모델링에 보편적으로 사용됨 
 
 ### 앙상블: 여러 개의 weak learners를 이용해 최적의 답을 찾아내는 기법
  - 배깅(Bootstrap AGGregatING, Bagging):
@@ -35,9 +35,12 @@ Unsupervised Learning
  
 ### Clustering 
  - 군집화(Clustering) - 레이블이 없는 데이터를 비슷한 군집으로 묶는 것.
- - K-NN은 분류에 가까운 알고리즘이고, K-means는 군집화에 가까운 알고리즘이다.
+ - K-NN은 분류에 가까운 알고리즘이고, K-means는 군집화에 가까운 알고리즘.
    + K-NN 관련용어 SOM(셀프 오거나이징 맵): https://en.wikipedia.org/wiki/Self-organizing_map
- - 지도학습의 분류와 가장 큰 차이는 레이블의 유무
+   + 인공신경망: 인간 신경망에서 영감을 얻은 학습 알고리즘이자 비선형모델
+- 지도학습의 분류와 가장 큰 차이는 레이블의 유무
+
+
 
 ## Reinforcement Learning 
  - 강화학습 = 계획, 우리가 원하는 행동으로 표현/계획되기 위해서는?
