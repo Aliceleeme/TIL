@@ -13,8 +13,8 @@
   * 복사하기
     * cp -p file name; 'file name'으로 지정한 파일 복사하기 
     * cp -pr; 파일에 걸려있는 권한까지 동일하게 지정하여 파일 복사하기 
-
-
+    * cp -i; 복사할 때 뜨는 questions 보여주기 
+   
   * 기타
     * ll -t f; 파일 리스트를 시간대별로 최신>과거 순으로 나열 (descending)
     * vi fime_name; vi에서 file 편집하기 
