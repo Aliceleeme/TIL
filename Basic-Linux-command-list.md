@@ -7,7 +7,7 @@
   * 기초 리눅스 
     * cd /path/; moving to specific directoty 
     * ls; 특정 경로의 파일 목록 file list on the specific path 
-    * ls a 
+    * ls -al; 특정 경로 파일의 소유권을 확인 
     * pushd = push directory ; 디렉토리 이동에 사용하는 리눅스 명령어  cd ../path/와 비슷한 원리로 활용한다.
     * popd = pop directory ; 디렉토리 이동에 사용하는 리눅스 명령어, 이전 경로로 돌아간다.
 
@@ -20,5 +20,6 @@
   * 기타
     * ll -t f; 파일 리스트를 시간대별로 최신>과거 순으로 나열 (descending)
     * vi fime_name; vi에서 file 편집하기 
+    * chown username:groupname file_name.sh; 리눅스 파일 소유권 변경 
 
   * command A || Command B; 두 가지 종류의 리눅스 커맨드 동시에 실행하기  
