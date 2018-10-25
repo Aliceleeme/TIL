@@ -19,6 +19,8 @@
    
   * 기타
     * ll -t f; 파일 리스트를 시간대별로 최신>과거 순으로 나열 (descending)
+    * ll F | grep (searching content) : 특정 키워드를 가진 파일목록 검색 
+    * find (path) -name (file keyword in specific path) : 특정 경로 내 파일검색
     * vi fime_name; vi에서 file 편집하기 
     * chown username:groupname file_name.sh; 리눅스 파일 소유권 변경 
 
