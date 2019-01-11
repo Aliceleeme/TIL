@@ -18,7 +18,7 @@
 
 
   * 탐색 
-   * find (path) -name (file keyword in specific path); 특정 경로 내 파일검색
+    * find (path) -name (file keyword in specific path); 특정 경로 내 파일검색
 
 
   * 복사하기
