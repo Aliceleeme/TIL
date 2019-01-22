@@ -29,4 +29,19 @@ sg <- function(x, scale = 1, shape = 1) {
   x <- qweibull(x, shape = shape, scale = scale)
   test_stat(x, scale = scale)
 }
+
+# recommend that optim_list contain a list called control and that the list should have a max.time element 
+# telling the algorithm the maximum running time (in seconds) it should have
+
+mc.wei.scale.test <- MCHTest(ts, sg, N = 1000, seed = 123,
+                             test_params = "scale", nuisance_params = "shape",
+                             optim_control = list("lower" = c("shape" = 0),
+                                                  "upper" = c("shape" = 100),
+                                                  "control" = list(
+                                                    "max.time" = 10
+                                                  )), threshold_pval = .2,
+                             localize_functions = TRUE)
+ 
+mc.wei.scale.test(rweibull(10, 2, 2), scale = 4)
+
 ```
