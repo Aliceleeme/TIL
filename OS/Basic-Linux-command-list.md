@@ -37,6 +37,10 @@
     * gzip; 옵션에 따라 다양한 확장자로 압축 가능
 
 
+  * 권한 변경
+    * chmod -R ugo-w; lock the writting permission for user, group and owner
+
+
   * 기타
     * vi fime_name; vi에서 file 편집하기 
     * chown username:groupname file_name.sh; 리눅스 파일 소유권 변경 
