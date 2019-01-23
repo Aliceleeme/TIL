@@ -46,3 +46,4 @@
     * chown username:groupname file_name.sh; 리눅스 파일 소유권 변경 
     * command A || command B; 두 가지 종류의 리눅스 커맨드 동시에 실행하기  
     * ln -s; symbolic link. 특정 경로로 '바로가기' 만들기 
+    * at (time) -> command -> ctrl+d; 리눅스 상에서 특정 커맨드를 특정 시간에 실행하는 것으로 예약 
