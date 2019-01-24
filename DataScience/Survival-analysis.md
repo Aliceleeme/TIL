@@ -1,5 +1,5 @@
 
-survival analysis 
+Survival analysis 
 ------------------
 
 생존분석
@@ -9,4 +9,7 @@ survival analysis
     * 사건분포 함수
     * 위험도 함수
   * 데이터 전처리 용어 중 "중도절단(cencoring)"이라는 것이 있는듯
+  
+  
+  * 기초개념 논문: https://ekja.org/upload/pdf/kjae-2018-71-3-182_ko.pdf
   * 금융분야의 신용리스크 계산 시 특정 금융상품의 생존률 등을 파악하고자 사용 
