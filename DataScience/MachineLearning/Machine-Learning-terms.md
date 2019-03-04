@@ -41,4 +41,4 @@ ML Terminology
 
   + [머신러닝, 딥러닝 용어 정리](http://snowdeer.github.io/machine-learning/2018/01/04/machine-learning-terminologies/)
   
-  + [구글 머신러닝 단기과정 용어 모음집]{https://developers.google.com/machine-learning/crash-course/glossary?hl=ko} 
+  + [구글 머신러닝 단기과정 용어 모음집](https://developers.google.com/machine-learning/crash-course/glossary?hl=ko)
