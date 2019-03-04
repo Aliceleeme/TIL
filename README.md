@@ -1,6 +1,6 @@
 # TIL
 
-Today I leared from the work. 오늘 일에서 배운 것. Mainly it is about data analysis methodologies, basic skills for specific tools, industry backgrounds.  
+Today I leared from the work. 오늘 일에서 배운 것. Mainly it is about data analysis methodologies, basic skills for specific tools, and industry backgrounds.  
 
 
 Learned 
