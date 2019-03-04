@@ -20,5 +20,5 @@ Data-related conferences
 
 
 * Conferences
-  * [Datax]([https://www.theinnovationenterprise.com/summits/datax-singapore)
+  * [Datax](https://www.theinnovationenterprise.com/summits/datax-singapore)
   * TBD
