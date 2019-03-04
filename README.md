@@ -3,22 +3,24 @@
 Today I leared from the work. 오늘 일에서 배운 것.
 
 
-Learned
+Learned 
 --------
-  * Machine learning
-    * Google extensive learning for ML
+  * [Machine learning](https://github.com/Aliceleeme/TIL/blob/master/DataScience/MachineLearning/understanding-machine-learning.md)
     * MCMC
     * Time Series 
     * Regressions 
+    * Google extensive learning for ML
     
+  * [Data visualization](https://github.com/Aliceleeme/TIL/blob/master/DataScience/data-visualization-catalog.md) 
+  
   * Tools
     * SAS
     * Tableau
-    * Google Bigquery(GCP)
-    * Firebase 
+    * Google Bigquery(Google Cloud Platform)
+    * [Firebase](https://github.com/Aliceleeme/TIL/blob/master/DataScience/Firebase-and-data-analysis.md) 
     
   * OS
-    * Linux
+    * [Linux Commands](https://github.com/Aliceleeme/TIL/blob/master/OS/Basic-Linux-command-list.md)
 
 
 
