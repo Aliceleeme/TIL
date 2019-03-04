@@ -9,7 +9,7 @@ Learned
     * MCMC
     * Time Series 
     * Regressions 
-    * Google extensive learning for ML
+    * [Terminology](https://github.com/Aliceleeme/TIL/blob/master/DataScience/MachineLearning/Machine-Learning-terms.md)
     
   * [Data visualization](https://github.com/Aliceleeme/TIL/blob/master/DataScience/data-visualization-catalog.md) 
   
