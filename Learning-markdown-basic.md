@@ -2,6 +2,8 @@
 Struggling w Markdowns
 ----------
 
-+ [기본 참고자료]{https://simhyejin.github.io/2016/06/30/Markdown-syntax/#code-blocks}
+
++ [기본 참고자료](https://simhyejin.github.io/2016/06/30/Markdown-syntax/#code-blocks)
+
   + 다만 하이퍼링크 다는 법의 경우, 꺾쇠 옆 소괄호 안에 "web-site-url"만 넣어도 충분히 잘 작동한다. 
     + (2018-01-11 수정: 상황에 따라서는 따옴표까지 온전히 넣어야 하이퍼링크로서 작동하기도 한다. 마크다운에서 글을 작성할 때 먹히지 않는 경우가 있는 듯. 어떤 상황에서 따옴표를 넣고 빼야하는지는 자세히 알 수 없음.) 
