@@ -1,6 +1,6 @@
 # TIL
 
-Today I leared from the work. 오늘 일에서 배운 것.
+Today I leared from the work. 오늘 일에서 배운 것. Mainly it is about data analysis methodologies, basic skills for specific tools, industry backgrounds.  
 
 
 Learned 
@@ -26,7 +26,6 @@ Learned
 
 Will learn
 -----------
-
   * Back-end
     * Python
     * AWS
@@ -35,3 +34,11 @@ Will learn
     * D3.js
     * css
     * html 
+
+
+Domain knowledge
+-----------
+  * Medical
+  * Psychological tests 
+  * TBD
+  
