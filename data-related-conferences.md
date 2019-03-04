@@ -12,9 +12,13 @@ Data-related conferences
 
 
 * Academia
-  * VIS: http://ieeevis.org
+  * [VIS](http://ieeevis.org)
+
+
+* Specialized on Healthcare fields
+  * TBD 
 
 
 * Conferences
-  * (Datax)[https://www.theinnovationenterprise.com/summits/datax-singapore]
+  * [Datax]([https://www.theinnovationenterprise.com/summits/datax-singapore)
   * TBD
