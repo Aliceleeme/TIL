@@ -7,6 +7,11 @@ Supervised Learning
  - 알아맞추는 것, 예측하는 것에 집중되어 있다. 
  - with supervision 
 
+### EDA 
+ - TBD 
+ - PCA 
+ - median, average, SD etc..
+ 
 ### GLM = General Linear model
  - 머신러닝과 통계에서 가장 보편적인 모델
  - 최근에는 H2O, XGBoost 등이 사용되고 있음
@@ -15,7 +20,8 @@ Supervised Learning
 ### 앙상블: 여러 개의 weak learners를 이용해 최적의 답을 찾아내는 기법
  - 배깅(Bootstrap AGGregatING, Bagging):
 테스트 데이터 샘플링(Bootstrap) 통해 여러개의 테스트 데이터를 만들고, 각 테스트 데이터를 이용해 여러개의 weak learner 를 만든다. 최종적으로 각 learner 의 예측결과를 평균내서 종합(aggregate)한다.
- - 부스팅(Boosting):  부스트 래핑된 테스트 데이터로 여러개의 weak learner 들을 순차적으로(iterative) 만드는데, i번째 learner 는 i-1 번째 learner 가 잘못 예측한 데이터에 가중치를 좀 더 주어서(boosting) 학습한다. 최종적으로 마지막에 생성된 learner 를 이용하여 예측한다.
+ - 부스팅(Boosting):  부스트 래핑된 테스트 데이터로 여러개의 weak learner 들을 순차적으로(iterative) 만드는데, i번째 learner 는 i-1 번째 learner 가 잘못 예측한 데이터에 가중치를 좀 더 주어서(boosting) 학습한다. 최종적으로 마지막에 생성된 learner 를 이용하여 예측한다.   
+   - [Gradient Boosting](https://github.com/Aliceleeme/TIL/blob/master/DataScience/MachineLearning/Gradient-boosting.md)
 
 ### Decision Tree 
  - 분류(Classification) - 이미 레이블이 있는 데이터를 기반으로, 새로운 데이터를 분류하는 것.
@@ -35,21 +41,6 @@ Unsupervised Learning
    + K-NN 관련용어 SOM(셀프 오거나이징 맵): https://en.wikipedia.org/wiki/Self-organizing_map
    + 인공신경망: 인간 신경망에서 영감을 얻은 학습 알고리즘이자 비선형모델
 - 지도학습의 분류와 가장 큰 차이는 레이블의 유무
-
-Gradient boosting 
-------------------
-
-* 학습이란 손실함수를 최소화하는 파라미터를 찾는 것
-
-
-* 초기 모델에서부터 점차 향상된 모델을 만들기 위한 방법론
-
-  * Gradient Boosting은 손실 함수를 최소화하는 탐색 과정을 함수 공간에서 실행. 손실함수를 파라미터가 아니라 현재까지 학습된 모델 함수로 미분.
-
-  * Squared Error를 쓰는 경우, 현재 모델의 잔차를 타겟으로 놓고 새로운 모델을 피팅. 기존 모델은 이 새로운 모델을 흡수해서 Bias를 줄여나감. 
-  그리고 다시 잔차를 구하고 모델을 피팅해서 더하는 과정을 반복하여 손실이 적은 함수를 최종적으로 찾아내는 것. 
-
-
 
 
 ## Reinforcement Learning 
