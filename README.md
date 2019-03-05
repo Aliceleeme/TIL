@@ -7,7 +7,7 @@ Learned
 --------
   * [Machine learning](https://github.com/Aliceleeme/TIL/blob/master/DataScience/MachineLearning/understanding-machine-learning.md)
     * MCMC
-    * Time Series 
+    * [Time Series Analysis](https://github.com/Aliceleeme/TIL/blob/master/DataScience/MachineLearning/Time-series-analysis.md) 
     * Regressions 
     * [Terminology](https://github.com/Aliceleeme/TIL/blob/master/DataScience/MachineLearning/Machine-Learning-terms.md)
     
