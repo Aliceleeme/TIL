@@ -6,19 +6,24 @@ Today I leared from the work. 오늘 일에서 배운 것. Mainly it is about da
 Learned 
 --------
   * [Machine learning](https://github.com/Aliceleeme/TIL/blob/master/DataScience/MachineLearning/understanding-machine-learning.md)
-    * MCMC
+    * Regression
+    * Supervised learning
+    * Unsupervised learning
     * [Time Series Analysis](https://github.com/Aliceleeme/TIL/blob/master/DataScience/MachineLearning/Time-series-analysis.md) 
-    * Regressions 
     * [Terminology](https://github.com/Aliceleeme/TIL/blob/master/DataScience/MachineLearning/Machine-Learning-terms.md)
-    
+    * MCMC
+
+
   * [Data visualization](https://github.com/Aliceleeme/TIL/blob/master/DataScience/data-visualization-catalog.md) 
-  
+
+
   * Tools
     * SAS
     * Tableau
     * Google Bigquery(Google Cloud Platform)
     * [Firebase](https://github.com/Aliceleeme/TIL/blob/master/DataScience/Firebase-and-data-analysis.md) 
-    
+
+
   * OS
     * [Linux Commands](https://github.com/Aliceleeme/TIL/blob/master/OS/Basic-Linux-command-list.md)
 
