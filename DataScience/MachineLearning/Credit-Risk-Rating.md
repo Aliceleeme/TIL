@@ -7,8 +7,11 @@ Credit Risk Rating and Analysis
   - 신용리스크 분석에서 활용하는 라이브러리, 언어 등에 대한 이해 
 
 - Approach 
-  - [格付遷移行列 rating transition matrix](https://www.riskdatabank.co.jp/rdb/riskpedia/330/)
+  - [格付遷移行列 Rating Transition Matrix](https://www.riskdatabank.co.jp/rdb/riskpedia/330/)
   - [코레스키 분해 Cholesky decomposition](https://ja.wikipedia.org/wiki/コレスキー分解)
   - [몬테카를로 모델 Monte Carlo Model](https://github.com/Aliceleeme/TIL/blob/master/DataScience/MachineLearning/Monte-carlo-marcov-chain.md)
 
-
+- Tools  
+  - Monte Carlo for Python 
+  - Monte Carlo for R
+  - General Credit Risk Analysis libraries
