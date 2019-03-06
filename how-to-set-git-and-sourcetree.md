@@ -19,3 +19,4 @@ Sourcetree로 github 시작하기
   4. Sourcetree를 사용하기
   	* TBD 
 
+- [Another way to use git](https://emflant.tistory.com/123)
