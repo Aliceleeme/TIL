@@ -1,6 +1,5 @@
 
-* lib(MCHT): Maximized Monte Carlo Testing
-  * https://www.r-bloggers.com/maximized-monte-carlo-testing-with-mcht/
+* [lib(MCHT)](https://www.r-bloggers.com/maximized-monte-carlo-testing-with-mcht/): Maximized Monte Carlo Testing
 
 ```R
 library(MCHT)
