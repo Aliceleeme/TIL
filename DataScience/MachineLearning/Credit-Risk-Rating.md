@@ -9,11 +9,6 @@ Credit Risk Rating and Analysis
 - Approach 
   - [格付遷移行列 rating transition matrix](https://www.riskdatabank.co.jp/rdb/riskpedia/330/)
   - [코레스키 분해 Cholesky decomposition](https://ja.wikipedia.org/wiki/コレスキー分解)
-  
+  - [몬테카를로 모델 Monte Carlo Model](https://github.com/Aliceleeme/TIL/blob/master/DataScience/MachineLearning/Monte-carlo-marcov-chain.md)
 
 
-- Environments 
-  - SAS
-  - Linux 
-  - Vim
-  - Excel (simple modeling, testing) 
