@@ -10,6 +10,8 @@ Credit Risk Rating and Analysis
   - [格付遷移行列 Rating Transition Matrix](https://www.riskdatabank.co.jp/rdb/riskpedia/330/)
   - [코레스키 분해 Cholesky decomposition](https://ja.wikipedia.org/wiki/コレスキー分解)
   - [몬테카를로 모델 Monte Carlo Model](https://github.com/Aliceleeme/TIL/blob/master/DataScience/MachineLearning/Monte-carlo-marcov-chain.md)
+  - [마르코브 체인 Marcov Chain]
+
 
 - Tools  
   - Monte Carlo for Python 
