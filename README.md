@@ -9,6 +9,7 @@ Learned
     * Regression
     * Supervised learning
     * Unsupervised learning
+    * [Survival analysis](https://github.com/Aliceleeme/TIL/blob/master/DataScience/MachineLearning/Survival-analysis.md)
     * [Time Series Analysis](https://github.com/Aliceleeme/TIL/blob/master/DataScience/MachineLearning/Time-series-analysis.md) 
     * [Terminology](https://github.com/Aliceleeme/TIL/blob/master/DataScience/MachineLearning/Machine-Learning-terms.md)
     * MCMC
