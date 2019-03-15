@@ -44,7 +44,6 @@ Will learn
 
 Domain knowledge
 -----------
-  * Medical
-  * Psychological tests 
-  * TBD
+  * RWE(RWD) in medical field
+  * Credit risk analysis
   
