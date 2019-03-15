@@ -15,9 +15,13 @@
      * 생존분석은 사건이 발생할 때까지의 시간(time-toevent)을 일차 결과(primary outcome)로 두면서 이런 불완전한 자 료를 분석하기 위해 필요
 
      * 분석방법
+     
         * 모수적 방법(parametric methods): 결과 변수가 정규분포, 이분형 분포(binomial distribution), 또는 포아송 분포(Poisson distribution)와 같이 기존에 알고 있는 분포를 따른다는 가정하 에 회귀분석을 통하여 생존함수를 구축하는 방법.
+        
           * Weibull, exponential, log-logistic, lognormal, generalized gamma model 
+          
         * 비모수적 방법(non-parametric methods):
+        
           * Kaplan-Meier 곡선(Kaplan-Meier curve): 관찰기간이 짧은 경우부터 긴 순서로 나열하여 사건이 발생한 시점에서의 사건 발생률을 계산하는 방법
             * 관찰기간과 사건 발생 여부의 두 가지에만 초점을 맞추어 분석하는 방법이기 때문에 사건 발생에 영향을 주는 다른 변수)에 대해서는 분석할 수 없음
           * Cox 비례위험회귀모형(Cox proportional hazard regression model)
@@ -29,9 +33,13 @@
      * 위험도 함수(hazard function): 임의의 시 점에서의 사건발생률을 구하는 함수. h(t)로 표현.
 
      * 중도절단(cencoring): 처치 이후 관찰이 종료되는 시점 사 이에서 사건 발생 여부를 확인할 수 없는 사례. 다른 통계분석 방법에서는 결측값(missing value)으로 처리되지만, 생존분석에서는 매우 중요한 자료로 포함
-       * 중도절단 자료를 명확하게 구분하는 것은 시행되는 생존분석이 비뚤림 (bias)이 없도록 하는 중요한 과정
+     
+       * 중도절단 자료를 명확하게 구분하는 것은 시행되는 생존분석이 편향(bias)이 없도록 하는 중요한 과정
+       
        * 우측중도절단, 좌측중도절단이 있음 
-       * Cox 비례위험회귀모형: 회귀분석 방법을 응용하여 중도절단 자료를 처리하는 방법. 이 방법은 특정 분포를 가정하지 않으며, Kaplan-Meier 생존분석과 달리 사건의 발생에 영향을 줄 수 있는 다른 변수들의 분석도 가능
+       
+       * Cox 비례위험 회귀모형(Cox-regreesion): 회귀분석 방법을 응용하여 중도절단 자료를 처리하는 방법. 이 방법은 특정 분포를 가정하지 않으며, Kaplan-Meier 생존분석과 달리 사건의 발생에 영향을 줄 수 있는 다른 변수들의 분석도 가능
+       
           * 생존함수가 지수함수(exponential function)을 따른다는 것과 두 군의 위험비가 연구기간 동안 일정하게 유지된다는 두 가지 중요한 가정에서 출발
 
 
