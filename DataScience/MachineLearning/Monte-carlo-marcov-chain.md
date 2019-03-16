@@ -9,3 +9,6 @@
 * [Marcov Chain](http://secom.hanbat.ac.kr/or/chapter1/right04.html)
 * [Monte Carlo Fallacy](https://www.investopedia.com/terms/g/gamblersfallacy.asp)
 
+* Libraries
+  * [PyMC3](https://github.com/pymc-devs/pymc3)
+
