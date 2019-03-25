@@ -11,4 +11,4 @@
 
 * Libraries
   * [PyMC3](https://github.com/pymc-devs/pymc3)
-  * [MCHT](https://www.r-bloggers.com/maximized-monte-carlo-testing-with-mcht/) in R
+  * [MCHT](https://www.r-bloggers.com/maximized-monte-carlo-testing-with-mcht/) in R (Maximized Monte Carlo Testing)
