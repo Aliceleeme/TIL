@@ -12,3 +12,6 @@
 * Libraries
   * [PyMC3](https://github.com/pymc-devs/pymc3)
   * [MCHT](https://www.r-bloggers.com/maximized-monte-carlo-testing-with-mcht/) in R (Maximized Monte Carlo Testing)
+
+
+- 어쩌다 본 금융공학 전공자의 블로그의 한 문장에서 [몬테카를로가 금융공학이란 단서](http://blog.airbridge.io/data-science-with-r-1-misperception/)를 얻음
