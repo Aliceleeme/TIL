@@ -11,7 +11,7 @@ Learned
     * Unsupervised learning
     * [Survival analysis](https://github.com/Aliceleeme/TIL/blob/master/DataScience/MachineLearning/Survival-analysis.md)
     * [Time Series Analysis](https://github.com/Aliceleeme/TIL/blob/master/DataScience/MachineLearning/Time-series-analysis.md) 
-    * [MCMC](https://github.com/Aliceleeme/TIL/blob/master/DataScience/MachineLearning/Monte-carlo-marcov-chain.md)
+    * [MCMC(Monte Carlo Marcov Chain)](https://github.com/Aliceleeme/TIL/blob/master/DataScience/MachineLearning/Monte-carlo-marcov-chain.md)
     * [Terminology](https://github.com/Aliceleeme/TIL/blob/master/DataScience/MachineLearning/Machine-Learning-terms.md)
 
 
