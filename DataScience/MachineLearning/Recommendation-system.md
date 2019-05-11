@@ -7,3 +7,11 @@ Recommendation System
 - [Factorization Machines (FM)](http://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf)
 - [Lambda Mart](http://research.microsoft.com/pubs/132652/MSR-TR-2010-82.pdf)
 - [Restricted Boltzmann Machines (RBM)](http://www.machinelearning.org/proceedings/icml2007/papers/407.pdf)
+
+- Collaborative Filtering 
+  - Matrix Factorization
+  - KNN
+  
+- Content-based Filtering 
+  - Clustering
+  - ANN
