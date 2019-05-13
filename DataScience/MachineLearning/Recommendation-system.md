@@ -15,3 +15,5 @@ Recommendation System
 - Content-based Filtering 
   - Clustering
   - ANN
+
+- [선호도 행렬과 롱테일 법칙](https://steemit.com/recommender/@saemi32/2lrvhy)
