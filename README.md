@@ -38,10 +38,3 @@ Will learn
   * Front-end
     * D3.js
     * css/html 
-
-
-Domain knowledge
------------
-  * RWE(RWD) in medical field
-  * Credit risk analysis
-  
