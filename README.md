@@ -25,10 +25,9 @@ Learned
     * [Firebase](https://github.com/Aliceleeme/TIL/blob/master/DataScience/Firebase-and-data-analysis.md) 
 
 
-  * OS
+  * etc
     * [Linux Commands](https://github.com/Aliceleeme/TIL/blob/master/OS/Basic-Linux-command-list.md)
-
-
+    * Sourcetree
 
 Will learn
 -----------
@@ -38,8 +37,7 @@ Will learn
     
   * Front-end
     * D3.js
-    * css
-    * html 
+    * css/html 
 
 
 Domain knowledge
