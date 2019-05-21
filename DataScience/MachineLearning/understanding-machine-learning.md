@@ -20,16 +20,20 @@ Supervised Learning
 ### 앙상블: 여러 개의 weak learners를 이용해 최적의 답을 찾아내는 기법
  - 배깅(Bootstrap AGGregatING, Bagging):
 테스트 데이터 샘플링(Bootstrap) 통해 여러개의 테스트 데이터를 만들고, 각 테스트 데이터를 이용해 여러개의 weak learner 를 만든다. 최종적으로 각 learner 의 예측결과를 평균내서 종합(aggregate)한다.
+
+
  - 부스팅(Boosting):  부스트 래핑된 테스트 데이터로 여러개의 weak learner 들을 순차적으로(iterative) 만드는데, i번째 learner 는 i-1 번째 learner 가 잘못 예측한 데이터에 가중치를 좀 더 주어서(boosting) 학습한다. 최종적으로 마지막에 생성된 learner 를 이용하여 예측한다.   
    - [Gradient Boosting](https://github.com/Aliceleeme/TIL/blob/master/DataScience/MachineLearning/Gradient-boosting.md)
 
+
+- [Random Forest](https://ko.wikipedia.org/wiki/랜덤_포레스트#랜덤_포레스트)
+   - 분류, 회귀분석에 사용되는 앙상블 기법의 하나
+   - 훈련 과정에서 구성된 다수의 결정 트리로부터 분류 또는 평균 예측치(회귀 분석)를 출력하는 방식
+   - 배깅(bagging)과 랜덤 노드 최적화(randomized node optimization)를 자주 사용
+
+
 ### Decision Tree 
  - 분류(Classification) - 이미 레이블이 있는 데이터를 기반으로, 새로운 데이터를 분류하는 것.
-
-### [Random Forest](https://ko.wikipedia.org/wiki/랜덤_포레스트#랜덤_포레스트)
- - 분류, 회귀분석에 사용되는 앙상블 기법의 하나
- - 훈련 과정에서 구성된 다수의 결정 트리로부터 분류 또는 평균 예측치(회귀 분석)를 출력하는 방식
- - 배깅(bagging)과 랜덤 노드 최적화(randomized node optimization)를 자주 사용
 
 
 Unsupervised Learning 
@@ -61,11 +65,9 @@ Unsupervised Learning
    + 경사하강법이 효과적으로 수렴할 정도로 크지만 발산할 정도로 크지는 않은 적당한 학습률을 구하는 것이 목표
  
 
-
-
 References
 -----------
-[(기계 학습, Machine Learning) Week 1 Motivations and Basics | Lecture 1 Motivation - YouTube](https://www.youtube.com/watch?v=sDG1Y1vxOjs&index=2&list=PLt9QR0WkC4WVszuogbmIIHIIQ2RMI78RC)
+[(기계 학습, Machine Learning) Week 1 Motivations and Basics](https://www.youtube.com/watch?v=sDG1Y1vxOjs&index=2&list=PLt9QR0WkC4WVszuogbmIIHIIQ2RMI78RC)
 
 [구글 머신러닝 단기간집중학습](https://www.youtube.com/watch?v=sDG1Y1vxOjs&index=2&list=PLt9QR0WkC4WVszuogbmIIHIIQ2RMI78RC)
 
