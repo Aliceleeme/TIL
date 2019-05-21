@@ -26,7 +26,10 @@ Supervised Learning
 ### Decision Tree 
  - 분류(Classification) - 이미 레이블이 있는 데이터를 기반으로, 새로운 데이터를 분류하는 것.
 
-### Random Forest 
+### [Random Forest](https://ko.wikipedia.org/wiki/랜덤_포레스트#랜덤_포레스트)
+ - 분류, 회귀분석에 사용되는 앙상블 기법의 하나
+ - 훈련 과정에서 구성된 다수의 결정 트리로부터 분류 또는 평균 예측치(회귀 분석)를 출력하는 방식
+ - 배깅(bagging)과 랜덤 노드 최적화(randomized node optimization)를 자주 사용
 
 
 Unsupervised Learning 
@@ -40,7 +43,7 @@ Unsupervised Learning
  - K-NN은 분류에 가까운 알고리즘이고, K-means는 군집화에 가까운 알고리즘.
    + K-NN 관련용어 SOM(셀프 오거나이징 맵): https://en.wikipedia.org/wiki/Self-organizing_map
    + 인공신경망: 인간 신경망에서 영감을 얻은 학습 알고리즘이자 비선형모델
-- 지도학습의 분류와 가장 큰 차이는 레이블의 유무
+ - 지도학습의 분류와 가장 큰 차이는 레이블의 유무
 
 
 ## Reinforcement Learning 
