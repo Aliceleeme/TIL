@@ -1,0 +1,1 @@
+- https://dgkim5360.tistory.com/entry/understanding-long-short-term-memory-lstm-kr
