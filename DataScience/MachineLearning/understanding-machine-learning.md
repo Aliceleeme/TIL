@@ -54,7 +54,7 @@ Unsupervised Learning
  - 트레이닝 데이터와 테스트 데이터의 수
   + 80% training set, 10% validation set , 10% testing set
   + 50% training set, 25% validation set , 25% testing set
-  + Reference: https://stackoverflow.com/questions/38358465/how-to-choose-the-right-amount-of-training-dataset-for-forecasting/38362005#38362005
+  + Reference: [How to choose the right amount of training dataset for forecasting?](https://stackoverflow.com/questions/38358465/how-to-choose-the-right-amount-of-training-dataset-for-forecasting/38362005#38362005)
 
  - 학습률 최적화
   + 실무에서는 모델 학습의 성공을 위해 최적 또는 최적에 근접한 학습률을 반드시 구할 필요는 없음
