@@ -26,14 +26,19 @@ Supervised Learning
    - [Gradient Boosting](https://github.com/Aliceleeme/TIL/blob/master/DataScience/MachineLearning/Gradient-boosting.md)
 
 
-- [Random Forest](https://ko.wikipedia.org/wiki/랜덤_포레스트#랜덤_포레스트)
-   - 분류, 회귀분석에 사용되는 앙상블 기법의 하나
+### 분류(Classification) 
+ - Decision Tree 
+   - 엔트로피: "데이터가 얼만큼의 정보를 담고 있는가?"를 의미. 데이터의 불확실성을 반영.  
+   - 회귀나무(Regression Tree): 숫자형 결과를 반환
+   - 분류나무(Classification Tree): 범주형 결과를 반환 
+   - 의사결정 나무의 경우 관련 변수 선정과 나무의 깊이(depth)를 선정하기가 어려워 오버피팅이 발생하기 쉬움. 이를 보완하기 위해 랜덤 포레스트 사용.
+
+
+ - [Random Forest](https://ko.wikipedia.org/wiki/랜덤_포레스트#랜덤_포레스트)
+   - 분류, 회귀분석에 사용되는 앙상블 기법의 하나. 의사결정 트리를 통해 만들어진 알고리즘. 
    - 훈련 과정에서 구성된 다수의 결정 트리로부터 분류 또는 평균 예측치(회귀 분석)를 출력하는 방식
    - 배깅(bagging)과 랜덤 노드 최적화(randomized node optimization)를 자주 사용
 
-
-### Decision Tree 
- - 분류(Classification) - 이미 레이블이 있는 데이터를 기반으로, 새로운 데이터를 분류하는 것.
 
 
 Unsupervised Learning 
