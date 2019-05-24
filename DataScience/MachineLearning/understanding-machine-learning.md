@@ -38,6 +38,7 @@ Supervised Learning
    - 분류, 회귀분석에 사용되는 앙상블 기법의 하나. 의사결정 트리를 통해 만들어진 알고리즘. 
    - 훈련 과정에서 구성된 다수의 결정 트리로부터 분류 또는 평균 예측치(회귀 분석)를 출력하는 방식
    - 배깅(bagging)과 랜덤 노드 최적화(randomized node optimization)를 자주 사용
+   - [OOB(Out of Bag error)](https://gentlej90.tistory.com/37) 랜덤 포레스트의 퍼포먼스 평가를 위해 사용.
 
 
 
@@ -80,4 +81,6 @@ References
 
 [Gradient boosting에 대한 간략한 개념](http://4four.us/article/2017/05/gradient-boosting-simply)
 
-[A Gentle Introduction to Gradient Boosting](http://www.ccs.neu.edu/home/vip/teach/MLcourse/4_boosting/slides/gradient_boosting.pdf)
+[A Gentle Introduction to Gradient Boosting](http://www.ccs.neu.edu/home/vip/teach/MLcourse/4_boosting/slides/gradient_boosting.pdf
+
+[Random Forest]https://gentlej90.tistory.com/37
