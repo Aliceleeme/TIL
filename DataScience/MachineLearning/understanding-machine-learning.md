@@ -81,6 +81,6 @@ References
 
 [Gradient boosting에 대한 간략한 개념](http://4four.us/article/2017/05/gradient-boosting-simply)
 
-[A Gentle Introduction to Gradient Boosting](http://www.ccs.neu.edu/home/vip/teach/MLcourse/4_boosting/slides/gradient_boosting.pdf
+[A Gentle Introduction to Gradient Boosting](http://www.ccs.neu.edu/home/vip/teach/MLcourse/4_boosting/slides/gradient_boosting.pdf)
 
 [Random Forest]https://gentlej90.tistory.com/37
