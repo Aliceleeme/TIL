@@ -36,7 +36,10 @@ Supervised Learning
 
  - [Random Forest](https://ko.wikipedia.org/wiki/랜덤_포레스트#랜덤_포레스트)
    - 분류, 회귀분석에 사용되는 앙상블 기법의 하나. 의사결정 트리를 통해 만들어진 알고리즘. 
+     1) Random subspace - Feature bagging 
+     2) Bagging  
    - 훈련 과정에서 구성된 다수의 결정 트리로부터 분류 또는 평균 예측치(회귀 분석)를 출력하는 방식
+   - Bootstraping sampling 복원추출을 이용하여 트리의 갯수만큼 데이터를 추출하는 과정
    - 배깅(bagging)과 랜덤 노드 최적화(randomized node optimization)를 자주 사용
    - [OOB(Out of Bag error)](https://gentlej90.tistory.com/37) 랜덤 포레스트의 퍼포먼스 평가를 위해 사용.
 
