@@ -83,4 +83,4 @@ References
 
 [A Gentle Introduction to Gradient Boosting](http://www.ccs.neu.edu/home/vip/teach/MLcourse/4_boosting/slides/gradient_boosting.pdf)
 
-[Random Forest]https://gentlej90.tistory.com/37
+[Random Forest](https://gentlej90.tistory.com/37)
