@@ -36,7 +36,7 @@
 
   * 압축
     * gzip; 옵션에 따라 다양한 확장자로 압축 가능
-
+    * gunzip의 경우 1.6 버전 업데이트부터는 반드시 어떤 확장자로 압축할 것인지도 써줘야 함 e.g. gunzip filename *.gz [사례](https://ja.stackoverflow.com/questions/19392/拡張子gzを付けないとgzipgunzipコマンドで解凍できない) 
 
   * 권한 변경
     * chmod -R ugo-w; lock the writting permission for user, group and owner
