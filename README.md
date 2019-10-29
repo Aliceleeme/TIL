@@ -28,7 +28,7 @@ Learned
 
   * etc
     * [Linux Commands](https://github.com/Aliceleeme/TIL/blob/master/OS/Basic-Linux-command-list.md)
-    * Sourcetree
+    * [Sourcetree](https://github.com/Aliceleeme/TIL/tree/master/Sourcetree)
 
 Will learn
 -----------
