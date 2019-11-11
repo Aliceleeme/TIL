@@ -1,5 +1,5 @@
 
-Python setiing issue
+Python setting issue
 --------------------
 
 - python3를 cmd에서 별도로 설치한 경우, cmd에서 설치한 라이브러리와 conda에서 설치하는 라이브러리는 별도로 작동. [참고](https://dailyheumsi.tistory.com/33#1.-pip-vs-pip3)
