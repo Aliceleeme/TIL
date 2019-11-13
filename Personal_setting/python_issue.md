@@ -16,4 +16,4 @@ Python setting issue
   -  `pip3 install packageName --user`로 해결하였음. 
 
 
-- [Kernel busy on jupyter notebook] (https://github.com/jupyter/notebook/issues/3845)
+- [Kernel busy on jupyter notebook](https://github.com/jupyter/notebook/issues/3845)
