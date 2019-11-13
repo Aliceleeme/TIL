@@ -14,3 +14,6 @@ Python setting issue
 - [permission issue[Errno 13] Permission denied](https://stackoverflow.com/questions/52949531/could-not-install-packages-due-to-an-environmenterror-errno-13)
 
   -  `pip3 install packageName --user`로 해결하였음. 
+
+
+- [Kernel busy on jupyter notebook] (https://github.com/jupyter/notebook/issues/3845)
