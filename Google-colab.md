@@ -6,3 +6,6 @@ How to use google colab
 
 
 - [google colab에서 파일 읽어오기(일본어)](https://qiita.com/uni-3/items/201aaa2708260cc790b8)
+
+
+- [How to solve google colab busy/initializing](https://stackoverflow.com/questions/51833633/google-colab-is-showing-busy)
