@@ -28,5 +28,5 @@ Flow
    - [A Brief Inroduction to Japanese Morphology](http://www.kanji.org/kanji/japanese/writing/wordform.htm)
 
 
- - Document classification
-   - TBD 
+ - Libraries for Japanese processing
+   - [Ginza ー from Recruit to adopt spaCy(Japanese Text)](https://www.ogis-ri.co.jp/otc/hiroba/technical/similar-document-search/part4.html)
